@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I’m currently learning C++👺
 <!--
 **lua972/lua972** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
